@@ -4,7 +4,7 @@ This is my **personal portfolio website**, designed to showcase my skills, proje
 
 ## 📁 Folder Structure
 
-/portfolio
+portfolio
 │
 ├── index.html # Main HTML page of the portfolio
 ├── /assets # Contains all supporting files:
@@ -37,7 +37,7 @@ To view the website:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://Hasan508-hub/Portofolio_hackathon/tree/main/portfolio
 Open index.html in your browser.
 
 📬 Contact
