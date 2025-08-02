@@ -4,6 +4,7 @@ This is my **personal portfolio website**, designed to showcase my skills, proje
 
 ## 📁 Folder Structure
 
+```
 Portofolio_hackathon
 │
 ├── index.html # Main HTML page of the portfolio
@@ -12,10 +13,7 @@ Portofolio_hackathon
 │ ├── /illustrations # Custom or stock illustrations used in the design
 │ ├── /projects # Screenshots, demos, or descriptions of my projects
 │ └── /styles # CSS files used for styling the website
-
-markdown
-Copy
-Edit
+```
 
 ## 🛠️ How I Built It
 
