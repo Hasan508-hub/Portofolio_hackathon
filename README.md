@@ -4,7 +4,7 @@ This is my **personal portfolio website**, designed to showcase my skills, proje
 
 ## 📁 Folder Structure
 
-portfolio
+Portofolio_hackathon
 │
 ├── index.html # Main HTML page of the portfolio
 ├── /assets # Contains all supporting files:
@@ -33,12 +33,19 @@ Edit
 
 ## 🚀 Getting Started
 
-To view the website:
+To view the website on your local machine:
 
 1. Clone this repository:
    ```bash
-   git clone https://Hasan508-hub/Portofolio_hackathon/tree/main/portfolio
-Open index.html in your browser.
+   git clone https://github.com/Hasan508-hub/Portofolio_hackathon.git
+   ```
+2. Move to the projects directory
+   ```bash
+   cd Portofolio_hackathon
+   ```
+3. Open index.html in your browser.
+
+To view the website online: [click me]()
 
 📬 Contact
-If you’d like to collaborate or get in touch, feel free to connect with me via LinkedIn or email (provided in the contact section of the website)
+If you’d like to collaborate, feel free to open an [issue](https://github.com/Hasan508-hub/Portofolio_hackathon/issues) or get in touch with me via LinkedIn or email
